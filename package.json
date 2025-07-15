@@ -1,0 +1,14 @@
+{
+  "name": "vite-watch-bug",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "watch": "tsx watch.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.3",
+    "typescript": "~5.8.3",
+    "vite": "^7.0.4"
+  }
+}
